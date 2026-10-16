@@ -1,18 +1,20 @@
 # Git and GitHub Basics: A Beginner's How-To Guide
 
-## Project overview
-This guide explains the basic Git and GitHub workflow for beginners: saving changes, using branches, opening pull requests, and reviewing work before merging.
+## Project Overview
+This project explains the basics of Git and GitHub for beginners. It covers version control, common Git commands, branches, pull requests, and merge conflicts.
 
 ## Contents
-- `PLAN.md` — project plan and guide structure
-- `GUIDE.md` — the finished how-to guide
+- Introduction to Git and GitHub
+- Basic Git commands
+- Creating branches
+- Pull requests
+- Resolving merge conflicts
 
-## How to use this guide
-Read the sections in `GUIDE.md` in order and try the example commands in a test repository.
+## Project Plan
+See [PLAN.md](PLAN.md) for the project plan.
+
+## How to Use This Guide
+Read the sections in order and follow the example commands to practice the basic Git workflow.
 
 ## Screencast
-Add the link to the team's 3–5 minute screencast here after it has been recorded: **[Add screencast link]**
-
-## Contributors
-- Vincent Churchwell
-- [Partner's name]
+Screencast link: Add your recording link here when the video is complete.

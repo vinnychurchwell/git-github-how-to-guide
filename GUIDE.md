@@ -66,11 +66,8 @@ git pull
 A merge conflict happens when Git cannot automatically combine changes to the same part of a file. Open the conflicted file and look for markers like:
 
 ```text
-<<<<<<< HEAD
 your version
-=======
 partner's version
->>>>>>> other-branch
 ```
 
 Edit the file so it contains the correct combined result, remove all conflict markers, then save and test it. Finish with:
@@ -85,3 +82,4 @@ For this assignment, both partners should edit the same file on different branch
 ## Summary
 
 Git records the history of a project. Branches allow separate work, pushes upload commits to GitHub, and pull requests provide a review step before changes are merged. These habits help teams collaborate while keeping the main branch organized. This guide helps beginners understand how to track changes, save commits, and collaborate through GitHub. Common Git commands include git add to stage changes, git commit to save changes, and git push to upload changes to GitHub. Main branch version: This guide explains Git basics for beginners. Conflict branch version: This guide teaches beginners how to use GitHub. Conflict branch version: This guide teaches Git basics and collaboration.
+Git records the history of a project. Branches allow separate work, pushes upload commits to GitHub, and pull requests provide a review step before changes are merged. These habits help teams collaborate while keeping the main branch organized. This guide helps beginners understand how to track changes, save commits, and collaborate through GitHub. Common Git commands include git add to stage changes, git commit to save changes, and git push to upload changes to GitHub. Main branch version: This guide explains Git basics for beginners. Main branch version: This guide explains Git basics and collaboration.

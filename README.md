@@ -17,4 +17,4 @@ See [PLAN.md](PLAN.md) for the project plan.
 Read the sections in order and follow the example commands to practice the basic Git workflow.
 
 ## Screencast
-Screencast link: Add your recording link here when the video is complete.
+Attatched on assignment
